@@ -82,16 +82,16 @@
 
 ## 📊 GitHub Stats
 
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyak0004&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Shreya's GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyak0004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyak0004&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyak0004&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyak0004&theme=tokyonight" />
+</p>
 
 <p align="center">
   ⭐ <em>Feel free to explore my repositories and leave a star if you find something useful!</em>
