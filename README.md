@@ -83,7 +83,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyak0004&show_icons=true&theme=tokyonight" alt="Shreya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyak0004&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Shreya's GitHub Stats" />
+  
 </p>
 
 <p align="center">
