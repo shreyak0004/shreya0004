@@ -1,8 +1,8 @@
-# shreya0004
+
 <h1 align="center">Hi there, I'm Shreya Kutariyar 👋</h1>
 
 <p align="center">
-  <em>A passionate developer who loves building things for the web 🚀</em>
+  <em>A passionate developer & designer who loves building things for the web 🚀</em>
 </p>
 
 ---
