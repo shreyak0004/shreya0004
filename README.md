@@ -74,6 +74,7 @@
 ---
 
 ### ⌨️ [ZenType](https://github.com/shreyak0004/ZenType)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://zen-type-six.vercel.app/)
 > A minimalist typing experience app.
 
 - Built with **JavaScript** for a calm, distraction-free typing interface
